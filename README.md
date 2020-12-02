@@ -1,5 +1,4 @@
-# Diversion_Whitelist_for_Merlin_AdBlocking
-Diversion_Whitelist_for_Merlin_AdBlocking
+# Diversion Whitelist for Merlin AdBlocking
 
 Extended from https://github.com/PracticalChip/Adblocking
 
