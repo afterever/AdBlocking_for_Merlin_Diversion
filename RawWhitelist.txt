@@ -1,6 +1,11 @@
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
 
+# afterever added since December 2020
+www.ojrq.net
+www.jdoqocy.com
+www.emjcd.com
+
 # This was added at the request of the developer of Diversion
 
 steamcdn-a.akamaihd.net
@@ -1009,4 +1014,3 @@ zomato.com
 zoom.us
 best.aliexpress.com
 feedly.com
-ojrq.net
