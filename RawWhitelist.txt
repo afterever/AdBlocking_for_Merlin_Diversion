@@ -2,6 +2,7 @@
 # Project home page https://github.com/PracticalChip/Adblocking
 
 # afterever added since December 2020
+# most these are shopping sites
 www.ojrq.net
 www.jdoqocy.com
 www.emjcd.com
@@ -12,6 +13,9 @@ aan.amazon.com
 tps.doubleverify.com
 www.dpbolvw.net
 go.skimresources.com
+www.anrdoezrs.net
+
+
 
 # This was added at the request of the developer of Diversion
 
