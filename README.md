@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/afterever/Diversion_Whitelist_for_Merlin_AdBlo
 ***Sysstat sar command***
 
 https://www.snbforums.com/threads/rt-86u-usb-2-0-port-not-mounting-at-boot.64123/page-3
+
 https://www.thegeekstuff.com/2011/03/sar-examples/
 
 cru a sa1 "*/10 * * * * /opt/lib/sysstat/sa1 1 1"
