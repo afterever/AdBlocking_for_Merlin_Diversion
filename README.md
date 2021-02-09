@@ -10,10 +10,8 @@ https://raw.githubusercontent.com/afterever/Diversion_Whitelist_for_Merlin_AdBlo
 
 ***Sysstat sar command***
 
-https://www.snbforums.com/threads/rt-86u-usb-2-0-port-not-mounting-at-boot.64123/page-3
+vi /jffs/scripts/services-start //https://www.cyberciti.biz/faq/how-to-add-cron-job-on-asuswrt-merlin-wifi-router/
 
-https://www.thegeekstuff.com/2011/03/sar-examples/
+cru a sa1 "*/10 * * * * /opt/lib/sysstat/sa1 1 1"  //https://www.snbforums.com/threads/rt-86u-usb-2-0-port-not-mounting-at-boot.64123/page-3
 
-cru a sa1 "*/10 * * * * /opt/lib/sysstat/sa1 1 1"
-
-cru a sa2 "59 23 * * * /opt/lib/sysstat/sa2 -A"
+cru a sa2 "59 23 * * * /opt/lib/sysstat/sa2 -A"  //https://www.thegeekstuff.com/2011/03/sar-examples/
