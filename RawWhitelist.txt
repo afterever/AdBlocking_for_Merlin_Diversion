@@ -18,13 +18,11 @@ stags.bluekai.com
 www.kqzyfj.com
 www.qksrv.net
 
-# Paramount Plus
-pubads.g.doubleclick.net
+# Paramount Plus 04.23.2022
 saa.paramountplus.com
-
+pubads.g.doubleclick.net
 
 # This was added at the request of the developer of Diversion
-
 steamcdn-a.akamaihd.net
 media.steampowered.com	
 media4.steampowered.com
