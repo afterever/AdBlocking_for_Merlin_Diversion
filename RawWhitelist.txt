@@ -21,6 +21,10 @@ www.qksrv.net
 # Paramount Plus 04.23.2022
 saa.paramountplus.com
 pubads.g.doubleclick.net
+api2.branch.io
+mobile-collector.newrelic.com
+control.kochava.com
+
 
 # This was added at the request of the developer of Diversion
 steamcdn-a.akamaihd.net
