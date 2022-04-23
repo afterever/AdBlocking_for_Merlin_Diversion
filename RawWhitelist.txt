@@ -19,7 +19,7 @@ www.kqzyfj.com
 www.qksrv.net
 
 # Paramount Plus
-pubads.g.doubleclick.ne
+pubads.g.doubleclick.net
 saa.paramountplus.com
 
 
