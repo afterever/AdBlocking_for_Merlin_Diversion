@@ -3,3 +3,5 @@
 192.168.1.2 pokii.com
 192.168.1.2 roblox.com
 192.168.1.2 www.roblox.com
+192.168.1.2 narrow.one
+192.168.1.2 www.narrow.one
