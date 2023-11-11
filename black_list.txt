@@ -5,3 +5,5 @@
 192.168.1.2 www.roblox.com
 192.168.1.2 narrow.one
 192.168.1.2 www.narrow.one
+192.168.1.2 bloxd.io
+192.168.1.2 www.bloxd.io
