@@ -7,3 +7,7 @@
 192.168.1.2 www.narrow.one
 192.168.1.2 bloxd.io
 192.168.1.2 www.bloxd.io
+192.168.1.2 crazygames.com
+192.168.1.2 www.crazygames.com
+192.168.1.2 shellshock.io
+192.168.1.2 www.shellshock.io
