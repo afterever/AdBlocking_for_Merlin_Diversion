@@ -11,3 +11,5 @@
 192.168.1.2 www.crazygames.com
 192.168.1.2 shellshock.io
 192.168.1.2 www.shellshock.io
+192.168.1.2 scratch.mit.edu
+
