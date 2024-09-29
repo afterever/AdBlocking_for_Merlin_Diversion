@@ -27,7 +27,7 @@ control.kochava.com
 
 # Paramount Plus 09.29.2024
 googleadservices.com
-
+www.googleadservices.com
 
 # This was added at the request of the developer of Diversion
 steamcdn-a.akamaihd.net
