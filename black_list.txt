@@ -9,7 +9,7 @@
 192.168.1.2 www.bloxd.io
 192.168.1.2 crazygames.com
 192.168.1.2 www.crazygames.com
-192.168.1.2 shellshock.io
+# 192.168.1.2 shellshock.io
 192.168.1.2 www.shellshock.io
 192.168.1.2 scratch.mit.edu
 192.168.1.1 fandom.com
